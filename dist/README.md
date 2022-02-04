@@ -1,37 +1,38 @@
-# y
+# ElonCoin
 
-
+![LicenseBadge](https://img.shields.io/badge/License-MIT-green)
 
 ## Description
-y
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-
+* [License](#license)
 * [Contributing](#contributing)
 * [Test](#test)
 * [Questions](#questions)
 
 ## Installation
-y
+Tristique senectus et netus et malesuada fames ac turpis egestas.
 
 ## Usage
-y
+Sollicitudin ac orci phasellus egestas.
 
-
+## License 
+Licensed under the [MIT](https://opensource.org/licenses/MIT)
   
 ## Contributing
-y
+Est placerat in egestas erat imperdiet sed. Adipiscing bibendum est ultricies integer quis auctor.
 
 ## Test
-y
+Iaculis nunc sed augue lacus. Leo vel fringilla est ullamcorper.
 
 ## Questions
   
-y
+ShaneMcElrath
 
-https://github.com/y
+https://github.com/ShaneMcElrath
 
-y
+shane@rangermac.com
 
